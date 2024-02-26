@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+}
+
+.Clock {
+    position: absolute;
+    color: #b5e221;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    font-size: 60px;
+    font-family: Orbitron;
+}
